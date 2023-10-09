@@ -1,0 +1,377 @@
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\WpfFlappy_2\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_3\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_4\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_5\WpfFlappy\obj\Debug\WindowSchluss.baml
+E:\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+E:\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.exe
+E:\WpfFlappy_5\WpfFlappy\bin\Debug\WpfFlappy.pdb
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\MainWindow.g.cs
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\App.g.cs
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\MainWindow.baml
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WindowSchluss.baml
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.exe
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.pdb
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+E:\WpfFlappy_5\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.pdb
+E:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+E:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe
+E:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.pdb
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.g.cs
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\App.g.cs
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.baml
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.baml
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.exe
+E:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.pdb
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.exe
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.pdb
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.pdb
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\mscorlib.dll
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\de\mscorlib.resources.dll
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\normidna.nlp
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\normnfc.nlp
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\normnfd.nlp
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\normnfkc.nlp
+D:\WpfFlappy_7\WpfFlappy\bin\Debug\normnfkd.nlp
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csprojResolveAssemblyReference.cache
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.g.cs
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\App.g.cs
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.baml
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.baml
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+D:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.Cache
+F:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+F:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.exe
+F:\WpfFlappy_7\WpfFlappy\bin\Debug\WpfFlappy.pdb
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.g.cs
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\App.g.cs
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\MainWindow.baml
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WindowSchluss.baml
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.exe
+F:\WpfFlappy_7\WpfFlappy\obj\Debug\WpfFlappy.pdb
+E:\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+E:\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.exe
+E:\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.pdb
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\MainWindow.g.cs
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\App.g.cs
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\MainWindow.baml
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WindowSchluss.baml
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.exe
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.pdb
+E:\WpfFlappy_8\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\USUB\Desktop\WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2020_2\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe.config
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.exe
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\bin\Debug\WpfFlappy.pdb
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.AssemblyReference.cache
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\Interop.VBIDE.dll
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.ResolveComReference.cache
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.g.cs
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.g.cs
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\App.g.cs
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.cache
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy_MarkupCompile.lref
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\MainWindow.baml
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WindowSchluss.baml
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.g.resources
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.Properties.Resources.resources
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.GenerateResource.cache
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.csproj.CoreCompileInputs.cache
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.exe
+D:\2021_1\ITA\Norwegen C#\Spiel\2WpfFlappy_Last\WpfFlappy\obj\Debug\WpfFlappy.pdb

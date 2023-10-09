@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfFlappy.WindowSchluss"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFlappy"
+        mc:Ignorable="d"
+        Title="WindowSchluss" Height="450" Width="600">
+    <Grid Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}">
+        <Label x:Name="lblSchluss" Content="" HorizontalAlignment="Left" Height="46" Margin="191,226,0,0" VerticalAlignment="Top" Width="67" Background="{DynamicResource {x:Static SystemColors.WindowFrameBrushKey}}"/>
+        <Button x:Name="cdbSchliessen" Content="Schließen" HorizontalAlignment="Left" Height="35" Margin="381,355,0,0" VerticalAlignment="Top" Width="105" Click="CdbSchliessen_Click"/>
+        <Canvas x:Name="canvasBirdws" HorizontalAlignment="Left" Height="109" Margin="326,54,0,0" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="cdbRang" Content="Auswerten" HorizontalAlignment="Left" Margin="381,226,0,0" VerticalAlignment="Top" Width="105" Click="CdbRang_Click" Height="40"/>
+        <Button x:Name="cdbRestart" Content="Neues Spiel" HorizontalAlignment="Left" Margin="381,284,0,0" VerticalAlignment="Top" Width="105" Click="CdbRestart_Click" Height="40"/>
+        <TextBox x:Name="tbExcel" HorizontalAlignment="Left" Height="38" Margin="191,303,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67"/>
+        <Label Content="Aktuelles Ergebnis" HorizontalAlignment="Left" Height="35" Margin="23,226,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Bestes Ergebnis" HorizontalAlignment="Left" Height="69" Margin="23,303,0,0" VerticalAlignment="Top" Width="114"/>
+
+    </Grid>
+</Window>
